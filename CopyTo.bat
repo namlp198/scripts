@@ -1,0 +1,1 @@
+Powershell.exe -ExecutionPolicy Bypass -File CopyTo.ps1

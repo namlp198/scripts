@@ -1,0 +1,1 @@
+Powershell.exe -ExecutionPolicy Bypass -File open-labeling-script.ps1

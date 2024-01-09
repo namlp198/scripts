@@ -1,0 +1,1 @@
+Powershell.exe -ExecutionPolicy Bypass -File remove_img_no_labeling.ps1
